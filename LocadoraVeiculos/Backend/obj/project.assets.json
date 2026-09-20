@@ -4780,11 +4780,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Matheus\\Desktop\\LocadoraVeiculos\\Backend\\Backend.csproj",
+      "projectUniqueName": "C:\\Users\\Matheus\\Desktop\\Trabalho_Pratico_TADS\\LocadoraVeiculos\\Backend\\Backend.csproj",
       "projectName": "Backend",
-      "projectPath": "C:\\Users\\Matheus\\Desktop\\LocadoraVeiculos\\Backend\\Backend.csproj",
+      "projectPath": "C:\\Users\\Matheus\\Desktop\\Trabalho_Pratico_TADS\\LocadoraVeiculos\\Backend\\Backend.csproj",
       "packagesPath": "C:\\Users\\Matheus\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Matheus\\Desktop\\LocadoraVeiculos\\Backend\\obj\\",
+      "outputPath": "C:\\Users\\Matheus\\Desktop\\Trabalho_Pratico_TADS\\LocadoraVeiculos\\Backend\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Matheus\\AppData\\Roaming\\NuGet\\NuGet.Config"

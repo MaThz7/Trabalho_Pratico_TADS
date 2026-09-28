@@ -1,0 +1,53 @@
+# Testes da API - Locadora de Veículos
+
+## Swagger
+
+### Tela principal do Swagger
+
+![Swagger](Imagens/swagger.png)
+
+---
+
+## CRUDs
+
+### Veículo
+
+**POST - Criar veículo**
+
+![POST Veículo](Imagens/veiculo-post.png)
+
+**GET - Listar veículos**
+
+![GET Veículos](Imagens/veiculo-get.png)
+
+**PUT - Atualizar veículo**
+
+![PUT Veículo](Imagens/veiculo-put.png)
+
+**DELETE - Excluir veículo**
+
+![DELETE Veículo](Imagens/veiculo-delete.png)
+
+---
+
+## Filtros
+
+### Veículos por fabricante
+
+![Filtro por fabricante](Imagens/filtro-fabricante.png)
+
+### Veículos por categoria
+
+![Filtro por categoria](Imagens/filtro-categoria.png)
+
+### Aluguéis por cliente
+
+![Filtro por cliente](Imagens/filtro-cliente.png)
+
+### Aluguéis por veículo
+
+![Filtro por veículo](Imagens/filtro-veiculo.png)
+
+### Aluguéis por forma de pagamento
+
+![Filtro por forma de pagamento](Imagens/filtro-forma-pagamento.png)

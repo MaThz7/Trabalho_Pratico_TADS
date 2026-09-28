@@ -1,3 +1,5 @@
+namespace Backend.models;
+
 public class Aluguel
 {
     public int Id { get; set; }
@@ -22,9 +24,7 @@ public class Aluguel
 
     public decimal ValorTotal { get; set; }
 
-    public Cliente Cliente { get; set; }
-
-    public Veiculo Veiculo { get; set; }
-
-    public FormaPagamento FormaPagamento { get; set; }
+    public Cliente? Cliente { get; set; }
+    public Veiculo? Veiculo { get; set; }
+    public FormaPagamento? FormaPagamento { get; set; }
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Matheus\\Desktop\\Trabalho_Pratico_TADS\\LocadoraVeiculos\\backend\\Backend.csproj": {}
+    "C:\\Users\\Matheus\\Desktop\\Trabalho_Pratico_TADS\\LocadoraVeiculos\\Backend\\Backend.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Matheus\\Desktop\\Trabalho_Pratico_TADS\\LocadoraVeiculos\\backend\\Backend.csproj": {
+    "C:\\Users\\Matheus\\Desktop\\Trabalho_Pratico_TADS\\LocadoraVeiculos\\Backend\\Backend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Matheus\\Desktop\\Trabalho_Pratico_TADS\\LocadoraVeiculos\\backend\\Backend.csproj",
+        "projectUniqueName": "C:\\Users\\Matheus\\Desktop\\Trabalho_Pratico_TADS\\LocadoraVeiculos\\Backend\\Backend.csproj",
         "projectName": "Backend",
-        "projectPath": "C:\\Users\\Matheus\\Desktop\\Trabalho_Pratico_TADS\\LocadoraVeiculos\\backend\\Backend.csproj",
+        "projectPath": "C:\\Users\\Matheus\\Desktop\\Trabalho_Pratico_TADS\\LocadoraVeiculos\\Backend\\Backend.csproj",
         "packagesPath": "C:\\Users\\Matheus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Matheus\\Desktop\\Trabalho_Pratico_TADS\\LocadoraVeiculos\\backend\\obj\\",
+        "outputPath": "C:\\Users\\Matheus\\Desktop\\Trabalho_Pratico_TADS\\LocadoraVeiculos\\Backend\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Matheus\\AppData\\Roaming\\NuGet\\NuGet.Config"

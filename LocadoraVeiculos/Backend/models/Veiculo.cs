@@ -24,4 +24,4 @@ public class Veiculo
     public Fabricante? Fabricante { get; set; }
 
     public List<Aluguel>? Alugueis { get; set; }
-}
+} 
